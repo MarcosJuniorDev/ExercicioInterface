@@ -1,4 +1,6 @@
-﻿namespace ExerInterface.Entities
+﻿using System.Globalization;
+
+namespace ExerInterface.Entities
 {
     internal class Installment
     {
@@ -11,6 +13,10 @@
             Amount = amount;
         }
 
+        public override string ToString()
+        {
+            return $"{DueDate.ToString("dd/MM/yyyy")} - {Amount.ToString("F2", CultureInfo.InvariantCulture)}";
+        }
 
     }
 }
