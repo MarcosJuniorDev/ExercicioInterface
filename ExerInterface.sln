@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerInterface", "ExerInterface\ExerInterface.csproj", "{3C309F45-D6EB-4122-800A-C97526C92004}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C309F45-D6EB-4122-800A-C97526C92004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C309F45-D6EB-4122-800A-C97526C92004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C309F45-D6EB-4122-800A-C97526C92004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C309F45-D6EB-4122-800A-C97526C92004}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2312E361-F1A6-48B8-B4E2-058CA1C82046}
+	EndGlobalSection
+EndGlobal
